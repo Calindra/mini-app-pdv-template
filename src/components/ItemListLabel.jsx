@@ -1,0 +1,9 @@
+<View
+    borderBottomWidth='hairline'
+    borderColor='neutral-300'
+    padding='nano'
+    direction='column'
+    justify='center'
+>
+    {this.props.children}
+</View>
